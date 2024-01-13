@@ -35,4 +35,4 @@ Since I do not have Basic access to the Twitter Developer portal ($100/month), I
 Contributions to the project are welcome.
 
 ## License
-This project is licensed under the [MIT License].
+This project is licensed under the MIT License.
