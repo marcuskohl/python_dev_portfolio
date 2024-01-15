@@ -4,7 +4,11 @@
 The purpose of this project was to develop a deep learning model to predict the price of Bitcoin. Specifically, an LSTM model was developed to forecast future prices based on historical data.
 
 ## Data Source
-The dataset contains hourly Bitcoin price data including open, high, low, close, and volume. It was sourced from [Kaggle]("https://www.kaggle.com/datasets/olegshpagin/crypto-coins-prices-ohlcv").
+The dataset contains hourly Bitcoin price data including open, high, low, close, and volume. It is available on Kaggle. You can download it using the following link:
+
+[Bitcoin Hourly Price Data on Kaggle]([https://www.kaggle.com/datasets/olegshpagin/crypto-coins-prices-ohlcv])
+
+Please download and place the dataset in the `data/` directory to run the project.
 
 ## Data Preprocessing and Feature Engineering
 The preprocessing steps included:
